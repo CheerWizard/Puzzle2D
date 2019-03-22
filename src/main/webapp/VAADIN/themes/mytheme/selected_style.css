@@ -1,0 +1,6 @@
+.selected{
+    border: 12px;
+    border-color: orangered;
+    border-style: solid;
+    border-radius: 8px;
+}
